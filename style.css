@@ -38,6 +38,7 @@ body {
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
+    background-attachement: fixed;
 }
 .image2 {
     background-image: url("images/image2.png");
