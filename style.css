@@ -38,7 +38,7 @@ body {
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
-    background-attachement: fixed;
+    background-attachment: fixed;
 }
 .image2 {
     background-image: url("images/image2.png");
@@ -81,7 +81,7 @@ p {
 }
 a {
     color: black;
-    font-weight: bold;
+    font-weight: 500;
 }
 .textbg1:hover {
     background-image: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%);
